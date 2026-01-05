@@ -1,0 +1,7 @@
+mes_referencia,sintoma,contagem_ignorado,contagem_nao,contagem_sim,pct_ignorado,pct_nao,pct_sim
+9,perda_olfato_paladar,2034.0,383632.0,1632.0,0.0053,0.9905,0.0042
+9,teve_dificuldade_respirar,1644.0,383834.0,1820.0,0.0042,0.9911,0.0047
+9,teve_dor_garganta,1656.0,381403.0,4239.0,0.0043,0.9848,0.0109
+9,teve_dor_peito,1672.0,384305.0,1321.0,0.0043,0.9923,0.0034
+9,teve_febre,1609.0,382605.0,3084.0,0.0042,0.9879,0.008
+9,teve_tosse,1635.0,380123.0,5540.0,0.0042,0.9815,0.0143

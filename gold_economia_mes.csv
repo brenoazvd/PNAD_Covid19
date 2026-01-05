@@ -1,0 +1,60 @@
+mes_referencia,indicador_economico,categoria,contagem,pct
+9,afastado_trabalho,Não,163004,0.4209
+9,afastado_trabalho,Não aplicável,208466,0.5383
+9,afastado_trabalho,Sim,15828,0.0409
+9,auxilio_emergencial,Não,187429,0.4839
+9,auxilio_emergencial,Sim,199869,0.5161
+9,faixa_rendimento,0 - 100,1012,0.0026
+9,faixa_rendimento,1.601 - 3.000,34496,0.0891
+9,faixa_rendimento,10.001 - 50.000,2651,0.0068
+9,faixa_rendimento,101 - 300,4867,0.0126
+9,faixa_rendimento,3.001 - 10.000,19423,0.0502
+9,faixa_rendimento,301 - 600,10089,0.026
+9,faixa_rendimento,50.001 - 100.000,20,0.0001
+9,faixa_rendimento,601 - 800,5592,0.0144
+9,faixa_rendimento,801 - 1.600,62910,0.1624
+9,faixa_rendimento,Mais de 100.000,3,0.0
+9,faixa_rendimento,Não aplicável,246235,0.6358
+9,tipo_trabalho,"Agricultor, criador de animais, pescador, silvicultor e jardineiro",15562,0.0402
+9,tipo_trabalho,"Artesão, costureiro e sapateiro",2959,0.0076
+9,tipo_trabalho,"Artista, religioso (padre, pastor etc.)",343,0.0009
+9,tipo_trabalho,"Auxiliar da agropecuária (colhedor de frutas, boia fria, etc.)",4068,0.0105
+9,tipo_trabalho,"Auxiliar de escritório, escriturário",5689,0.0147
+9,tipo_trabalho,"Auxiliar de produção, de carga e descarga;",3809,0.0098
+9,tipo_trabalho,"Balconista, vendedor de loja",5751,0.0148
+9,tipo_trabalho,"Cabeleireiro, manicure e afins",2643,0.0068
+9,tipo_trabalho,"Comerciante (dono do bar, da loja etc.)",5013,0.0129
+9,tipo_trabalho,"Cozinheiro e garçom (de restaurantes, empresas)",2491,0.0064
+9,tipo_trabalho,"Cuidador de crianças, doentes ou idosos",505,0.0013
+9,tipo_trabalho,"Diretor, gerente, cargo político ou comissionado",4573,0.0118
+9,tipo_trabalho,"Empregado doméstico, diarista, cozinheiro (em domicílios particulares),",7402,0.0191
+9,tipo_trabalho,"Entregador de mercadorias (de restaurante, de farmácia, de loja, Uber Eats, IFood, Rappy etc.)",1049,0.0027
+9,tipo_trabalho,"Faxineiro, auxiliar de limpeza etc. (em empresa pública ou privada),",4387,0.0113
+9,tipo_trabalho,"Mecânico de veículos, máquinas industriais etc.",3343,0.0086
+9,tipo_trabalho,"Motoboy,",394,0.001
+9,tipo_trabalho,"Motorista (de aplicativo, de taxi, de van, de mototáxi, de ônibus)",3288,0.0085
+9,tipo_trabalho,"Motorista de caminhão (caminhoneiro),",2750,0.0071
+9,tipo_trabalho,"Médico, enfermeiro, profissionais de saúde de nível superior",2904,0.0075
+9,tipo_trabalho,Operador de Telemarketing,646,0.0017
+9,tipo_trabalho,"Operador de máquinas, montador na indústria;",3107,0.008
+9,tipo_trabalho,"Outra profissão de nível superior (advogado, engenheiro, contador, jornalista etc.)",7422,0.0192
+9,tipo_trabalho,Outro técnico ou profissional de nível médio,5573,0.0144
+9,tipo_trabalho,Outros,14317,0.037
+9,tipo_trabalho,"Padeiro, açougueiro e doceiro",1522,0.0039
+9,tipo_trabalho,"Pedagogo, professor de idiomas, música, arte e reforço escolar",897,0.0023
+9,tipo_trabalho,"Pedreiro, servente de pedreiro, pintor, eletricista, marceneiro",10375,0.0268
+9,tipo_trabalho,Policial civil,226,0.0006
+9,tipo_trabalho,"Porteiro, zelador",1018,0.0026
+9,tipo_trabalho,"Professor da educação infantil, de ensino fundamental, médio ou superior,",6404,0.0165
+9,tipo_trabalho,"Secretária, recepcionista",2874,0.0074
+9,tipo_trabalho,"Segurança, vigilante, outro trabalhador dos serviços de proteção",2565,0.0066
+9,tipo_trabalho,"Técnico, profissional da saúde de nível médio",2925,0.0076
+9,tipo_trabalho,"Vendedor a domicílio, representante de vendas, vendedor de catálogo (Avon, Natura etc.)",3420,0.0088
+9,tipo_trabalho,"Vendedor ambulante (feirante, camelô, comerciante de rua, quiosque)",2081,0.0054
+9,tipo_trabalho,não aplicável,243003,0.6274
+9,trabalho_remoto,Não,5026,0.013
+9,trabalho_remoto,Não aplicável,370231,0.9559
+9,trabalho_remoto,Sim,12041,0.0311
+9,trabalhou_semana_passada,Não,178832,0.4617
+9,trabalhou_semana_passada,Não aplicável,67979,0.1755
+9,trabalhou_semana_passada,Sim,140487,0.3627

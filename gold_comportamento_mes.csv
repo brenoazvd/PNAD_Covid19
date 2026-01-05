@@ -1,0 +1,10 @@
+mes_referencia,indicador_comportamento,categoria,contagem,pct
+9,medida_isolamento,Ficou em casa e só saiu em caso de necessidade básica,161444,0.4168
+9,medida_isolamento,Ficou rigorosamente em casa,63863,0.1649
+9,medida_isolamento,Ignorado,1926,0.005
+9,medida_isolamento,"Não fez restrição, levou vida normal como antes da pandemia",11191,0.0289
+9,medida_isolamento,"Reduziu o contato com as pessoas, mas continuou saindo de casa para trabalho ou atividades não essenciais e/ou recebendo visitas",148874,0.3844
+9,procurou_saude,Ignorado,3,0.0
+9,procurou_saude,Não,12752,0.0329
+9,procurou_saude,Não aplicável,370436,0.9565
+9,procurou_saude,Sim,4107,0.0106

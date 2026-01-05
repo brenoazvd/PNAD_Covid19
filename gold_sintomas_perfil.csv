@@ -1,0 +1,487 @@
+mes_referencia,faixa_etaria,sexo,uf,total,com_sintoma,pct_com_sintoma_chave
+9,0-9,Homem,Acre,461,5,0.0108
+9,0-9,Homem,Alagoas,802,17,0.0212
+9,0-9,Homem,Amapá,199,5,0.0251
+9,0-9,Homem,Amazonas,816,15,0.0184
+9,0-9,Homem,Bahia,1011,20,0.0198
+9,0-9,Homem,Ceará,1096,31,0.0283
+9,0-9,Homem,Distrito Federal,378,4,0.0106
+9,0-9,Homem,Espírito Santo,934,11,0.0118
+9,0-9,Homem,Goiás,807,21,0.026
+9,0-9,Homem,Maranhão,1523,37,0.0243
+9,0-9,Homem,Mato Grosso,834,16,0.0192
+9,0-9,Homem,Mato Grosso do Sul,569,11,0.0193
+9,0-9,Homem,Minas Gerais,1921,50,0.026
+9,0-9,Homem,Paraná,1164,18,0.0155
+9,0-9,Homem,Paraíba,624,15,0.024
+9,0-9,Homem,Pará,893,33,0.037
+9,0-9,Homem,Pernambuco,1103,14,0.0127
+9,0-9,Homem,Piauí,487,15,0.0308
+9,0-9,Homem,Rio Grande do Norte,472,10,0.0212
+9,0-9,Homem,Rio Grande do Sul,1184,23,0.0194
+9,0-9,Homem,Rio de Janeiro,1425,12,0.0084
+9,0-9,Homem,Rondônia,337,8,0.0237
+9,0-9,Homem,Roraima,461,11,0.0239
+9,0-9,Homem,Santa Catarina,1317,17,0.0129
+9,0-9,Homem,Sergipe,582,15,0.0258
+9,0-9,Homem,São Paulo,1807,30,0.0166
+9,0-9,Homem,Tocantins,352,9,0.0256
+9,0-9,Mulher,Acre,408,10,0.0245
+9,0-9,Mulher,Alagoas,773,21,0.0272
+9,0-9,Mulher,Amapá,230,8,0.0348
+9,0-9,Mulher,Amazonas,758,11,0.0145
+9,0-9,Mulher,Bahia,1075,30,0.0279
+9,0-9,Mulher,Ceará,1071,29,0.0271
+9,0-9,Mulher,Distrito Federal,328,3,0.0091
+9,0-9,Mulher,Espírito Santo,910,9,0.0099
+9,0-9,Mulher,Goiás,732,15,0.0205
+9,0-9,Mulher,Maranhão,1503,39,0.0259
+9,0-9,Mulher,Mato Grosso,719,16,0.0223
+9,0-9,Mulher,Mato Grosso do Sul,570,12,0.0211
+9,0-9,Mulher,Minas Gerais,1821,45,0.0247
+9,0-9,Mulher,Paraná,1083,26,0.024
+9,0-9,Mulher,Paraíba,607,14,0.0231
+9,0-9,Mulher,Pará,783,16,0.0204
+9,0-9,Mulher,Pernambuco,1071,16,0.0149
+9,0-9,Mulher,Piauí,537,9,0.0168
+9,0-9,Mulher,Rio Grande do Norte,486,13,0.0267
+9,0-9,Mulher,Rio Grande do Sul,1120,22,0.0196
+9,0-9,Mulher,Rio de Janeiro,1408,6,0.0043
+9,0-9,Mulher,Rondônia,307,8,0.0261
+9,0-9,Mulher,Roraima,407,7,0.0172
+9,0-9,Mulher,Santa Catarina,1298,13,0.01
+9,0-9,Mulher,Sergipe,525,18,0.0343
+9,0-9,Mulher,São Paulo,1785,25,0.014
+9,0-9,Mulher,Tocantins,330,3,0.0091
+9,10-19,Homem,Acre,583,13,0.0223
+9,10-19,Homem,Alagoas,1112,24,0.0216
+9,10-19,Homem,Amapá,265,9,0.034
+9,10-19,Homem,Amazonas,1018,21,0.0206
+9,10-19,Homem,Bahia,1455,23,0.0158
+9,10-19,Homem,Ceará,1392,32,0.023
+9,10-19,Homem,Distrito Federal,486,8,0.0165
+9,10-19,Homem,Espírito Santo,1155,12,0.0104
+9,10-19,Homem,Goiás,1068,19,0.0178
+9,10-19,Homem,Maranhão,2023,48,0.0237
+9,10-19,Homem,Mato Grosso,877,23,0.0262
+9,10-19,Homem,Mato Grosso do Sul,641,11,0.0172
+9,10-19,Homem,Minas Gerais,2455,35,0.0143
+9,10-19,Homem,Paraná,1420,30,0.0211
+9,10-19,Homem,Paraíba,786,14,0.0178
+9,10-19,Homem,Pará,1142,26,0.0228
+9,10-19,Homem,Pernambuco,1351,17,0.0126
+9,10-19,Homem,Piauí,643,8,0.0124
+9,10-19,Homem,Rio Grande do Norte,638,13,0.0204
+9,10-19,Homem,Rio Grande do Sul,1394,34,0.0244
+9,10-19,Homem,Rio de Janeiro,1830,12,0.0066
+9,10-19,Homem,Rondônia,384,11,0.0286
+9,10-19,Homem,Roraima,526,6,0.0114
+9,10-19,Homem,Santa Catarina,1436,17,0.0118
+9,10-19,Homem,Sergipe,662,20,0.0302
+9,10-19,Homem,São Paulo,2216,30,0.0135
+9,10-19,Homem,Tocantins,440,5,0.0114
+9,10-19,Mulher,Acre,580,16,0.0276
+9,10-19,Mulher,Alagoas,1006,22,0.0219
+9,10-19,Mulher,Amapá,275,11,0.04
+9,10-19,Mulher,Amazonas,1003,15,0.015
+9,10-19,Mulher,Bahia,1352,18,0.0133
+9,10-19,Mulher,Ceará,1271,30,0.0236
+9,10-19,Mulher,Distrito Federal,473,9,0.019
+9,10-19,Mulher,Espírito Santo,1008,10,0.0099
+9,10-19,Mulher,Goiás,959,22,0.0229
+9,10-19,Mulher,Maranhão,2036,43,0.0211
+9,10-19,Mulher,Mato Grosso,851,22,0.0259
+9,10-19,Mulher,Mato Grosso do Sul,637,9,0.0141
+9,10-19,Mulher,Minas Gerais,2257,42,0.0186
+9,10-19,Mulher,Paraná,1297,25,0.0193
+9,10-19,Mulher,Paraíba,799,22,0.0275
+9,10-19,Mulher,Pará,1080,35,0.0324
+9,10-19,Mulher,Pernambuco,1261,20,0.0159
+9,10-19,Mulher,Piauí,675,9,0.0133
+9,10-19,Mulher,Rio Grande do Norte,598,18,0.0301
+9,10-19,Mulher,Rio Grande do Sul,1257,30,0.0239
+9,10-19,Mulher,Rio de Janeiro,1698,16,0.0094
+9,10-19,Mulher,Rondônia,352,10,0.0284
+9,10-19,Mulher,Roraima,506,10,0.0198
+9,10-19,Mulher,Santa Catarina,1452,21,0.0145
+9,10-19,Mulher,Sergipe,695,18,0.0259
+9,10-19,Mulher,São Paulo,2118,33,0.0156
+9,10-19,Mulher,Tocantins,408,13,0.0319
+9,20-29,Homem,Acre,493,12,0.0243
+9,20-29,Homem,Alagoas,829,11,0.0133
+9,20-29,Homem,Amapá,274,10,0.0365
+9,20-29,Homem,Amazonas,851,13,0.0153
+9,20-29,Homem,Bahia,1167,31,0.0266
+9,20-29,Homem,Ceará,1273,26,0.0204
+9,20-29,Homem,Distrito Federal,470,16,0.034
+9,20-29,Homem,Espírito Santo,1003,22,0.0219
+9,20-29,Homem,Goiás,928,29,0.0312
+9,20-29,Homem,Maranhão,1494,40,0.0268
+9,20-29,Homem,Mato Grosso,816,24,0.0294
+9,20-29,Homem,Mato Grosso do Sul,578,14,0.0242
+9,20-29,Homem,Minas Gerais,2212,53,0.024
+9,20-29,Homem,Paraná,1316,27,0.0205
+9,20-29,Homem,Paraíba,707,12,0.017
+9,20-29,Homem,Pará,883,23,0.026
+9,20-29,Homem,Pernambuco,1189,16,0.0135
+9,20-29,Homem,Piauí,574,16,0.0279
+9,20-29,Homem,Rio Grande do Norte,561,12,0.0214
+9,20-29,Homem,Rio Grande do Sul,1340,38,0.0284
+9,20-29,Homem,Rio de Janeiro,1828,32,0.0175
+9,20-29,Homem,Rondônia,395,12,0.0304
+9,20-29,Homem,Roraima,473,15,0.0317
+9,20-29,Homem,Santa Catarina,1594,31,0.0194
+9,20-29,Homem,Sergipe,583,17,0.0292
+9,20-29,Homem,São Paulo,2102,39,0.0186
+9,20-29,Homem,Tocantins,381,8,0.021
+9,20-29,Mulher,Acre,550,14,0.0255
+9,20-29,Mulher,Alagoas,913,15,0.0164
+9,20-29,Mulher,Amapá,247,6,0.0243
+9,20-29,Mulher,Amazonas,818,25,0.0306
+9,20-29,Mulher,Bahia,1226,27,0.022
+9,20-29,Mulher,Ceará,1296,32,0.0247
+9,20-29,Mulher,Distrito Federal,459,23,0.0501
+9,20-29,Mulher,Espírito Santo,1077,20,0.0186
+9,20-29,Mulher,Goiás,916,36,0.0393
+9,20-29,Mulher,Maranhão,1596,48,0.0301
+9,20-29,Mulher,Mato Grosso,808,25,0.0309
+9,20-29,Mulher,Mato Grosso do Sul,633,16,0.0253
+9,20-29,Mulher,Minas Gerais,2279,62,0.0272
+9,20-29,Mulher,Paraná,1270,22,0.0173
+9,20-29,Mulher,Paraíba,656,24,0.0366
+9,20-29,Mulher,Pará,918,33,0.0359
+9,20-29,Mulher,Pernambuco,1266,18,0.0142
+9,20-29,Mulher,Piauí,601,5,0.0083
+9,20-29,Mulher,Rio Grande do Norte,571,12,0.021
+9,20-29,Mulher,Rio Grande do Sul,1339,52,0.0388
+9,20-29,Mulher,Rio de Janeiro,1858,26,0.014
+9,20-29,Mulher,Rondônia,426,7,0.0164
+9,20-29,Mulher,Roraima,486,11,0.0226
+9,20-29,Mulher,Santa Catarina,1550,33,0.0213
+9,20-29,Mulher,Sergipe,670,22,0.0328
+9,20-29,Mulher,São Paulo,2068,49,0.0237
+9,20-29,Mulher,Tocantins,339,15,0.0442
+9,30-39,Homem,Acre,508,8,0.0157
+9,30-39,Homem,Alagoas,728,11,0.0151
+9,30-39,Homem,Amapá,198,10,0.0505
+9,30-39,Homem,Amazonas,743,28,0.0377
+9,30-39,Homem,Bahia,1205,26,0.0216
+9,30-39,Homem,Ceará,1261,27,0.0214
+9,30-39,Homem,Distrito Federal,450,19,0.0422
+9,30-39,Homem,Espírito Santo,1167,27,0.0231
+9,30-39,Homem,Goiás,943,31,0.0329
+9,30-39,Homem,Maranhão,1499,36,0.024
+9,30-39,Homem,Mato Grosso,835,17,0.0204
+9,30-39,Homem,Mato Grosso do Sul,655,12,0.0183
+9,30-39,Homem,Minas Gerais,2406,63,0.0262
+9,30-39,Homem,Paraná,1336,32,0.024
+9,30-39,Homem,Paraíba,708,18,0.0254
+9,30-39,Homem,Pará,866,25,0.0289
+9,30-39,Homem,Pernambuco,1173,24,0.0205
+9,30-39,Homem,Piauí,647,17,0.0263
+9,30-39,Homem,Rio Grande do Norte,619,22,0.0355
+9,30-39,Homem,Rio Grande do Sul,1482,59,0.0398
+9,30-39,Homem,Rio de Janeiro,1931,24,0.0124
+9,30-39,Homem,Rondônia,379,10,0.0264
+9,30-39,Homem,Roraima,420,14,0.0333
+9,30-39,Homem,Santa Catarina,1723,42,0.0244
+9,30-39,Homem,Sergipe,578,18,0.0311
+9,30-39,Homem,São Paulo,2284,55,0.0241
+9,30-39,Homem,Tocantins,365,11,0.0301
+9,30-39,Mulher,Acre,523,17,0.0325
+9,30-39,Mulher,Alagoas,898,27,0.0301
+9,30-39,Mulher,Amapá,214,9,0.0421
+9,30-39,Mulher,Amazonas,789,23,0.0292
+9,30-39,Mulher,Bahia,1399,46,0.0329
+9,30-39,Mulher,Ceará,1419,38,0.0268
+9,30-39,Mulher,Distrito Federal,493,13,0.0264
+9,30-39,Mulher,Espírito Santo,1299,36,0.0277
+9,30-39,Mulher,Goiás,1068,46,0.0431
+9,30-39,Mulher,Maranhão,1722,61,0.0354
+9,30-39,Mulher,Mato Grosso,911,42,0.0461
+9,30-39,Mulher,Mato Grosso do Sul,701,24,0.0342
+9,30-39,Mulher,Minas Gerais,2570,83,0.0323
+9,30-39,Mulher,Paraná,1408,46,0.0327
+9,30-39,Mulher,Paraíba,829,36,0.0434
+9,30-39,Mulher,Pará,1020,40,0.0392
+9,30-39,Mulher,Pernambuco,1353,35,0.0259
+9,30-39,Mulher,Piauí,635,14,0.022
+9,30-39,Mulher,Rio Grande do Norte,645,27,0.0419
+9,30-39,Mulher,Rio Grande do Sul,1574,63,0.04
+9,30-39,Mulher,Rio de Janeiro,2173,41,0.0189
+9,30-39,Mulher,Rondônia,401,20,0.0499
+9,30-39,Mulher,Roraima,438,14,0.032
+9,30-39,Mulher,Santa Catarina,1886,49,0.026
+9,30-39,Mulher,Sergipe,668,23,0.0344
+9,30-39,Mulher,São Paulo,2568,66,0.0257
+9,30-39,Mulher,Tocantins,391,16,0.0409
+9,40-49,Homem,Acre,397,5,0.0126
+9,40-49,Homem,Alagoas,750,14,0.0187
+9,40-49,Homem,Amapá,176,4,0.0227
+9,40-49,Homem,Amazonas,724,28,0.0387
+9,40-49,Homem,Bahia,1176,16,0.0136
+9,40-49,Homem,Ceará,1034,22,0.0213
+9,40-49,Homem,Distrito Federal,409,14,0.0342
+9,40-49,Homem,Espírito Santo,1066,16,0.015
+9,40-49,Homem,Goiás,1001,33,0.033
+9,40-49,Homem,Maranhão,1241,38,0.0306
+9,40-49,Homem,Mato Grosso,830,22,0.0265
+9,40-49,Homem,Mato Grosso do Sul,626,11,0.0176
+9,40-49,Homem,Minas Gerais,2426,51,0.021
+9,40-49,Homem,Paraná,1424,23,0.0162
+9,40-49,Homem,Paraíba,622,9,0.0145
+9,40-49,Homem,Pará,804,16,0.0199
+9,40-49,Homem,Pernambuco,1108,22,0.0199
+9,40-49,Homem,Piauí,544,11,0.0202
+9,40-49,Homem,Rio Grande do Norte,517,8,0.0155
+9,40-49,Homem,Rio Grande do Sul,1399,47,0.0336
+9,40-49,Homem,Rio de Janeiro,1951,31,0.0159
+9,40-49,Homem,Rondônia,356,11,0.0309
+9,40-49,Homem,Roraima,326,11,0.0337
+9,40-49,Homem,Santa Catarina,1677,32,0.0191
+9,40-49,Homem,Sergipe,546,10,0.0183
+9,40-49,Homem,São Paulo,2303,41,0.0178
+9,40-49,Homem,Tocantins,365,15,0.0411
+9,40-49,Mulher,Acre,473,14,0.0296
+9,40-49,Mulher,Alagoas,865,18,0.0208
+9,40-49,Mulher,Amapá,224,14,0.0625
+9,40-49,Mulher,Amazonas,752,31,0.0412
+9,40-49,Mulher,Bahia,1388,43,0.031
+9,40-49,Mulher,Ceará,1227,38,0.031
+9,40-49,Mulher,Distrito Federal,572,19,0.0332
+9,40-49,Mulher,Espírito Santo,1238,39,0.0315
+9,40-49,Mulher,Goiás,1141,52,0.0456
+9,40-49,Mulher,Maranhão,1342,53,0.0395
+9,40-49,Mulher,Mato Grosso,880,32,0.0364
+9,40-49,Mulher,Mato Grosso do Sul,694,18,0.0259
+9,40-49,Mulher,Minas Gerais,2634,85,0.0323
+9,40-49,Mulher,Paraná,1669,50,0.03
+9,40-49,Mulher,Paraíba,777,19,0.0245
+9,40-49,Mulher,Pará,873,37,0.0424
+9,40-49,Mulher,Pernambuco,1295,36,0.0278
+9,40-49,Mulher,Piauí,650,17,0.0262
+9,40-49,Mulher,Rio Grande do Norte,570,14,0.0246
+9,40-49,Mulher,Rio Grande do Sul,1594,48,0.0301
+9,40-49,Mulher,Rio de Janeiro,2330,42,0.018
+9,40-49,Mulher,Rondônia,395,16,0.0405
+9,40-49,Mulher,Roraima,356,14,0.0393
+9,40-49,Mulher,Santa Catarina,1785,52,0.0291
+9,40-49,Mulher,Sergipe,647,21,0.0325
+9,40-49,Mulher,São Paulo,2600,66,0.0254
+9,40-49,Mulher,Tocantins,384,16,0.0417
+9,50-59,Homem,Acre,310,9,0.029
+9,50-59,Homem,Alagoas,586,11,0.0188
+9,50-59,Homem,Amapá,126,2,0.0159
+9,50-59,Homem,Amazonas,480,25,0.0521
+9,50-59,Homem,Bahia,994,24,0.0241
+9,50-59,Homem,Ceará,984,23,0.0234
+9,50-59,Homem,Distrito Federal,395,12,0.0304
+9,50-59,Homem,Espírito Santo,1051,19,0.0181
+9,50-59,Homem,Goiás,880,39,0.0443
+9,50-59,Homem,Maranhão,956,29,0.0303
+9,50-59,Homem,Mato Grosso,690,15,0.0217
+9,50-59,Homem,Mato Grosso do Sul,586,17,0.029
+9,50-59,Homem,Minas Gerais,2239,59,0.0264
+9,50-59,Homem,Paraná,1389,28,0.0202
+9,50-59,Homem,Paraíba,603,19,0.0315
+9,50-59,Homem,Pará,632,18,0.0285
+9,50-59,Homem,Pernambuco,913,18,0.0197
+9,50-59,Homem,Piauí,465,8,0.0172
+9,50-59,Homem,Rio Grande do Norte,428,11,0.0257
+9,50-59,Homem,Rio Grande do Sul,1631,55,0.0337
+9,50-59,Homem,Rio de Janeiro,1885,19,0.0101
+9,50-59,Homem,Rondônia,310,6,0.0194
+9,50-59,Homem,Roraima,234,11,0.047
+9,50-59,Homem,Santa Catarina,1642,23,0.014
+9,50-59,Homem,Sergipe,467,17,0.0364
+9,50-59,Homem,São Paulo,2146,49,0.0228
+9,50-59,Homem,Tocantins,296,8,0.027
+9,50-59,Mulher,Acre,374,13,0.0348
+9,50-59,Mulher,Alagoas,733,22,0.03
+9,50-59,Mulher,Amapá,129,4,0.031
+9,50-59,Mulher,Amazonas,578,33,0.0571
+9,50-59,Mulher,Bahia,1180,40,0.0339
+9,50-59,Mulher,Ceará,1252,26,0.0208
+9,50-59,Mulher,Distrito Federal,485,26,0.0536
+9,50-59,Mulher,Espírito Santo,1097,31,0.0283
+9,50-59,Mulher,Goiás,1067,48,0.045
+9,50-59,Mulher,Maranhão,1111,35,0.0315
+9,50-59,Mulher,Mato Grosso,812,22,0.0271
+9,50-59,Mulher,Mato Grosso do Sul,663,25,0.0377
+9,50-59,Mulher,Minas Gerais,2492,87,0.0349
+9,50-59,Mulher,Paraná,1553,51,0.0328
+9,50-59,Mulher,Paraíba,690,26,0.0377
+9,50-59,Mulher,Pará,687,28,0.0408
+9,50-59,Mulher,Pernambuco,1176,36,0.0306
+9,50-59,Mulher,Piauí,564,12,0.0213
+9,50-59,Mulher,Rio Grande do Norte,570,14,0.0246
+9,50-59,Mulher,Rio Grande do Sul,1877,73,0.0389
+9,50-59,Mulher,Rio de Janeiro,2353,50,0.0212
+9,50-59,Mulher,Rondônia,355,12,0.0338
+9,50-59,Mulher,Roraima,322,16,0.0497
+9,50-59,Mulher,Santa Catarina,1910,37,0.0194
+9,50-59,Mulher,Sergipe,520,22,0.0423
+9,50-59,Mulher,São Paulo,2509,65,0.0259
+9,50-59,Mulher,Tocantins,352,15,0.0426
+9,60-69,Homem,Acre,196,6,0.0306
+9,60-69,Homem,Alagoas,365,6,0.0164
+9,60-69,Homem,Amapá,83,3,0.0361
+9,60-69,Homem,Amazonas,342,12,0.0351
+9,60-69,Homem,Bahia,707,25,0.0354
+9,60-69,Homem,Ceará,656,10,0.0152
+9,60-69,Homem,Distrito Federal,234,10,0.0427
+9,60-69,Homem,Espírito Santo,744,13,0.0175
+9,60-69,Homem,Goiás,657,32,0.0487
+9,60-69,Homem,Maranhão,690,20,0.029
+9,60-69,Homem,Mato Grosso,506,21,0.0415
+9,60-69,Homem,Mato Grosso do Sul,403,7,0.0174
+9,60-69,Homem,Minas Gerais,1732,55,0.0318
+9,60-69,Homem,Paraná,979,24,0.0245
+9,60-69,Homem,Paraíba,386,13,0.0337
+9,60-69,Homem,Pará,405,13,0.0321
+9,60-69,Homem,Pernambuco,630,10,0.0159
+9,60-69,Homem,Piauí,355,7,0.0197
+9,60-69,Homem,Rio Grande do Norte,294,2,0.0068
+9,60-69,Homem,Rio Grande do Sul,1375,56,0.0407
+9,60-69,Homem,Rio de Janeiro,1546,21,0.0136
+9,60-69,Homem,Rondônia,220,5,0.0227
+9,60-69,Homem,Roraima,167,6,0.0359
+9,60-69,Homem,Santa Catarina,1282,20,0.0156
+9,60-69,Homem,Sergipe,263,9,0.0342
+9,60-69,Homem,São Paulo,1727,51,0.0295
+9,60-69,Homem,Tocantins,221,7,0.0317
+9,60-69,Mulher,Acre,246,5,0.0203
+9,60-69,Mulher,Alagoas,464,9,0.0194
+9,60-69,Mulher,Amapá,104,5,0.0481
+9,60-69,Mulher,Amazonas,363,13,0.0358
+9,60-69,Mulher,Bahia,852,21,0.0246
+9,60-69,Mulher,Ceará,845,19,0.0225
+9,60-69,Mulher,Distrito Federal,320,6,0.0188
+9,60-69,Mulher,Espírito Santo,893,19,0.0213
+9,60-69,Mulher,Goiás,717,37,0.0516
+9,60-69,Mulher,Maranhão,791,26,0.0329
+9,60-69,Mulher,Mato Grosso,586,17,0.029
+9,60-69,Mulher,Mato Grosso do Sul,445,13,0.0292
+9,60-69,Mulher,Minas Gerais,2009,58,0.0289
+9,60-69,Mulher,Paraná,1173,46,0.0392
+9,60-69,Mulher,Paraíba,462,14,0.0303
+9,60-69,Mulher,Pará,422,10,0.0237
+9,60-69,Mulher,Pernambuco,785,18,0.0229
+9,60-69,Mulher,Piauí,426,8,0.0188
+9,60-69,Mulher,Rio Grande do Norte,386,11,0.0285
+9,60-69,Mulher,Rio Grande do Sul,1513,49,0.0324
+9,60-69,Mulher,Rio de Janeiro,2107,34,0.0161
+9,60-69,Mulher,Rondônia,239,8,0.0335
+9,60-69,Mulher,Roraima,167,7,0.0419
+9,60-69,Mulher,Santa Catarina,1427,27,0.0189
+9,60-69,Mulher,Sergipe,326,11,0.0337
+9,60-69,Mulher,São Paulo,2123,64,0.0301
+9,60-69,Mulher,Tocantins,219,9,0.0411
+9,70-79,Homem,Acre,106,1,0.0094
+9,70-79,Homem,Alagoas,222,7,0.0315
+9,70-79,Homem,Amapá,32,2,0.0625
+9,70-79,Homem,Amazonas,167,6,0.0359
+9,70-79,Homem,Bahia,419,10,0.0239
+9,70-79,Homem,Ceará,427,10,0.0234
+9,70-79,Homem,Distrito Federal,129,0,0.0
+9,70-79,Homem,Espírito Santo,354,5,0.0141
+9,70-79,Homem,Goiás,331,14,0.0423
+9,70-79,Homem,Maranhão,346,9,0.026
+9,70-79,Homem,Mato Grosso,247,8,0.0324
+9,70-79,Homem,Mato Grosso do Sul,220,5,0.0227
+9,70-79,Homem,Minas Gerais,954,35,0.0367
+9,70-79,Homem,Paraná,543,8,0.0147
+9,70-79,Homem,Paraíba,207,2,0.0097
+9,70-79,Homem,Pará,219,1,0.0046
+9,70-79,Homem,Pernambuco,329,6,0.0182
+9,70-79,Homem,Piauí,193,7,0.0363
+9,70-79,Homem,Rio Grande do Norte,192,4,0.0208
+9,70-79,Homem,Rio Grande do Sul,723,27,0.0373
+9,70-79,Homem,Rio de Janeiro,813,14,0.0172
+9,70-79,Homem,Rondônia,114,1,0.0088
+9,70-79,Homem,Roraima,61,0,0.0
+9,70-79,Homem,Santa Catarina,615,13,0.0211
+9,70-79,Homem,Sergipe,146,7,0.0479
+9,70-79,Homem,São Paulo,970,25,0.0258
+9,70-79,Homem,Tocantins,118,6,0.0508
+9,70-79,Mulher,Acre,109,6,0.055
+9,70-79,Mulher,Alagoas,275,11,0.04
+9,70-79,Mulher,Amapá,31,1,0.0323
+9,70-79,Mulher,Amazonas,188,5,0.0266
+9,70-79,Mulher,Bahia,475,13,0.0274
+9,70-79,Mulher,Ceará,503,12,0.0239
+9,70-79,Mulher,Distrito Federal,162,6,0.037
+9,70-79,Mulher,Espírito Santo,427,9,0.0211
+9,70-79,Mulher,Goiás,395,22,0.0557
+9,70-79,Mulher,Maranhão,401,9,0.0224
+9,70-79,Mulher,Mato Grosso,225,9,0.04
+9,70-79,Mulher,Mato Grosso do Sul,246,5,0.0203
+9,70-79,Mulher,Minas Gerais,1108,29,0.0262
+9,70-79,Mulher,Paraná,669,15,0.0224
+9,70-79,Mulher,Paraíba,320,6,0.0188
+9,70-79,Mulher,Pará,239,11,0.046
+9,70-79,Mulher,Pernambuco,439,8,0.0182
+9,70-79,Mulher,Piauí,222,1,0.0045
+9,70-79,Mulher,Rio Grande do Norte,252,3,0.0119
+9,70-79,Mulher,Rio Grande do Sul,933,48,0.0514
+9,70-79,Mulher,Rio de Janeiro,1154,27,0.0234
+9,70-79,Mulher,Rondônia,117,2,0.0171
+9,70-79,Mulher,Roraima,66,2,0.0303
+9,70-79,Mulher,Santa Catarina,731,16,0.0219
+9,70-79,Mulher,Sergipe,173,8,0.0462
+9,70-79,Mulher,São Paulo,1171,32,0.0273
+9,70-79,Mulher,Tocantins,108,4,0.037
+9,80+,Homem,Acre,43,2,0.0465
+9,80+,Homem,Alagoas,86,2,0.0233
+9,80+,Homem,Amapá,15,1,0.0667
+9,80+,Homem,Amazonas,54,2,0.037
+9,80+,Homem,Bahia,171,7,0.0409
+9,80+,Homem,Ceará,252,9,0.0357
+9,80+,Homem,Distrito Federal,51,2,0.0392
+9,80+,Homem,Espírito Santo,144,3,0.0208
+9,80+,Homem,Goiás,156,11,0.0705
+9,80+,Homem,Maranhão,178,11,0.0618
+9,80+,Homem,Mato Grosso,90,3,0.0333
+9,80+,Homem,Mato Grosso do Sul,73,2,0.0274
+9,80+,Homem,Minas Gerais,426,16,0.0376
+9,80+,Homem,Paraná,210,6,0.0286
+9,80+,Homem,Paraíba,96,5,0.0521
+9,80+,Homem,Pará,71,2,0.0282
+9,80+,Homem,Pernambuco,138,0,0.0
+9,80+,Homem,Piauí,87,3,0.0345
+9,80+,Homem,Rio Grande do Norte,96,1,0.0104
+9,80+,Homem,Rio Grande do Sul,270,15,0.0556
+9,80+,Homem,Rio de Janeiro,340,4,0.0118
+9,80+,Homem,Rondônia,41,1,0.0244
+9,80+,Homem,Roraima,36,4,0.1111
+9,80+,Homem,Santa Catarina,237,3,0.0127
+9,80+,Homem,Sergipe,67,6,0.0896
+9,80+,Homem,São Paulo,387,14,0.0362
+9,80+,Homem,Tocantins,63,3,0.0476
+9,80+,Mulher,Acre,54,0,0.0
+9,80+,Mulher,Alagoas,143,3,0.021
+9,80+,Mulher,Amapá,25,1,0.04
+9,80+,Mulher,Amazonas,103,5,0.0485
+9,80+,Mulher,Bahia,254,11,0.0433
+9,80+,Mulher,Ceará,309,3,0.0097
+9,80+,Mulher,Distrito Federal,92,1,0.0109
+9,80+,Mulher,Espírito Santo,252,5,0.0198
+9,80+,Mulher,Goiás,176,5,0.0284
+9,80+,Mulher,Maranhão,207,3,0.0145
+9,80+,Mulher,Mato Grosso,121,2,0.0165
+9,80+,Mulher,Mato Grosso do Sul,107,1,0.0093
+9,80+,Mulher,Minas Gerais,586,19,0.0324
+9,80+,Mulher,Paraná,301,9,0.0299
+9,80+,Mulher,Paraíba,167,7,0.0419
+9,80+,Mulher,Pará,109,4,0.0367
+9,80+,Mulher,Pernambuco,226,4,0.0177
+9,80+,Mulher,Piauí,119,1,0.0084
+9,80+,Mulher,Rio Grande do Norte,144,3,0.0208
+9,80+,Mulher,Rio Grande do Sul,464,22,0.0474
+9,80+,Mulher,Rio de Janeiro,682,10,0.0147
+9,80+,Mulher,Rondônia,50,1,0.02
+9,80+,Mulher,Roraima,32,2,0.0625
+9,80+,Mulher,Santa Catarina,386,7,0.0181
+9,80+,Mulher,Sergipe,108,5,0.0463
+9,80+,Mulher,São Paulo,593,24,0.0405
+9,80+,Mulher,Tocantins,57,1,0.0175
