@@ -28,11 +28,20 @@ Isso encaixa no que o PDF pede: sintomas + populacao + economico + meses + anali
    - indicador de comportamento (isolamento, busca de atendimento, etc.)
    - categoria, contagem e percentual
 
+## View de apoio
+
+`frequencia_sintomas`
+- linhas = resposta (Nao/Sim/Ignorado/Nao_sabe)
+- colunas = sintomas
+- valores = percentual por sintoma (0-100)
+- objetivo: responder diretamente "% sintomas mais frequentes"
+
 ## Como gerar
 
 As tabelas sao criadas no `ETL.ipynb` e exportadas em CSV na raiz do projeto:
 `gold_sintomas_mes.csv`, `gold_sintomas_perfil.csv`,
-`gold_economia_mes.csv`, `gold_comportamento_mes.csv`.
+`gold_economia_mes.csv`, `gold_comportamento_mes.csv`,
+`frequencia_sintomas.csv`.
 
 Observacao: o dataset atual possui apenas `mes_referencia = 9`. Ao carregar
 outros meses, as tabelas serao geradas com o historico completo.
