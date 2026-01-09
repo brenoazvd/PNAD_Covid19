@@ -1,7 +1,1 @@
-*
-!.gitignore
-!Limpeza_Base_PNAD.ipynb
-!ETL.ipynb
-!gerar_graficos.py
-!README.md
-!ANALISE.md
+dados_tratados_completo.csv

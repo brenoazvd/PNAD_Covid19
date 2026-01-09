@@ -20,10 +20,9 @@ Tech Challenge - Fase 3 (Data Analytics)
 
 ## Pipeline (limpeza + ETL)
 
-1. Coloque `dados_tratados_completo.csv` na raiz do projeto
-2. Rode `Limpeza_Base_PNAD.ipynb` para gerar `dados_tratados.csv`
-3. Rode `ETL.ipynb` para gerar as tabelas gold
-4. (Opcional) Rode `python gerar_graficos.py` para criar os graficos do relatorio
+1. Rode `Limpeza_Base_PNAD.ipynb` para gerar `dados_tratados_completo.csv`
+2. Rode `ETL.ipynb` (usa `dados_tratados.csv`)
+3. (Opcional) Rode `python gerar_graficos.py` para criar os graficos do relatorio
 
 Dependencias principais: `pandas` e `matplotlib`.
 
