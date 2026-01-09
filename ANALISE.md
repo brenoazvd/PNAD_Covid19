@@ -5,9 +5,9 @@
 - Scripts e credenciais nao ficam neste repo por serem temporarios.
 
 ## Pipeline
-- Limpeza: `Limpeza_Base_PNAD.ipynb` (dados_tratados_completo.csv -> dados_tratados.csv).
+- Limpeza: `Limpeza_Base_PNAD.ipynb` para gerar `dados_tratados_completo.csv`
 - ETL: `ETL.ipynb` (tabelas gold e visoes).
-- Graficos: `gerar_graficos.py` (imagens em relatorios/figuras).
+- Graficos: gerar_graficos.py (imagens em relatorios/figuras).
 
 ## Cobertura dos dados
 - Linhas: 1.157.984
