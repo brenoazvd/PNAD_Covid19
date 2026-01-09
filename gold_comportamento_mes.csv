@@ -1,4 +1,22 @@
 mes_referencia,indicador_comportamento,categoria,contagem,pct
+7,medida_isolamento,Ficou em casa e só saiu em caso de necessidade básica,172452,0.4489
+7,medida_isolamento,Ficou rigorosamente em casa,89634,0.2333
+7,medida_isolamento,Ignorado,2292,0.006
+7,medida_isolamento,"Não fez restrição, levou vida normal como antes da pandemia",7195,0.0187
+7,medida_isolamento,"Reduziu o contato com as pessoas, mas continuou saindo de casa para trabalho ou atividades não essenciais e/ou recebendo visitas",112593,0.2931
+7,procurou_saude,Ignorado,11,0.0
+7,procurou_saude,Não,19661,0.0512
+7,procurou_saude,Não aplicável,358733,0.9338
+7,procurou_saude,Sim,5761,0.015
+8,medida_isolamento,Ficou em casa e só saiu em caso de necessidade básica,166071,0.4297
+8,medida_isolamento,Ficou rigorosamente em casa,78149,0.2022
+8,medida_isolamento,Ignorado,2358,0.0061
+8,medida_isolamento,"Não fez restrição, levou vida normal como antes da pandemia",7771,0.0201
+8,medida_isolamento,"Reduziu o contato com as pessoas, mas continuou saindo de casa para trabalho ou atividades não essenciais e/ou recebendo visitas",132171,0.342
+8,procurou_saude,Ignorado,11,0.0
+8,procurou_saude,Não,17228,0.0446
+8,procurou_saude,Não aplicável,363969,0.9417
+8,procurou_saude,Sim,5312,0.0137
 9,medida_isolamento,Ficou em casa e só saiu em caso de necessidade básica,161444,0.4168
 9,medida_isolamento,Ficou rigorosamente em casa,63863,0.1649
 9,medida_isolamento,Ignorado,1926,0.005
